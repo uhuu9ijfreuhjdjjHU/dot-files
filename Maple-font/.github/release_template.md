@@ -1,0 +1,25 @@
+## Changelog
+
+<!-- changelog -->
+
+## Download
+
+[Which File to Download?](https://github.com/subframe7536/maple-font/tree/variable?tab=readme-ov-file#naming-faq) | [我该下载哪个文件？](https://github.com/subframe7536/maple-font/blob/variable/README_CN.md#%E5%91%BD%E5%90%8D%E8%AF%B4%E6%98%8E)
+
+If you want to get the font that similar to `JetBrains Mono`, please download the "Normal-Ligature" or "Normal-No-Ligature"
+
+如果你想用的是和 `JetBrains Mono` 相近的字体，请下载 "Normal-Ligature" 或者 "Normal-No-Ligature"
+
+If you don't want to choose: [Click to download](https://<url>/MapleMono-NF-unhinted.zip)
+
+懒人包：[点击下载](https://<url>/MapleMono-NF-CN-unhinted.zip)
+
+| Format   | Ligature (default)                                                                                     | No-Ligature                                                                                                | Normal-Ligature                                                                                                    | Normal-No-Ligature                                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Variable | [📦 Download](https://<url>/MapleMono-Variable.zip)                                                     | [📦 Download](https://<url>/MapleMonoNL-Variable.zip)                                                       | [📦 Download](https://<url>/MapleMonoNormal-Variable.zip)                                                           | [📦 Download](https://<url>/MapleMonoNormalNL-Variable.zip)                                                             |
+| TTF      | [📦 Download](https://<url>/MapleMono-TTF.zip) ([hinted](https://<url>/MapleMono-TTF-AutoHint.zip))     | [📦 Download](https://<url>/MapleMonoNL-TTF.zip) ([hinted](https://<url>/MapleMonoNL-TTF-AutoHint.zip))     | [📦 Download](https://<url>/MapleMonoNormal-TTF.zip) ([hinted](https://<url>/MapleMonoNormal-TTF-AutoHint.zip))     | [📦 Download](https://<url>/MapleMonoNormalNL-TTF.zip) ([hinted](https://<url>/MapleMonoNormalNL-TTF-AutoHint.zip))     |
+| OTF      | [📦 Download](https://<url>/MapleMono-OTF.zip)                                                          | [📦 Download](https://<url>/MapleMonoNL-OTF.zip)                                                            | [📦 Download](https://<url>/MapleMonoNormal-OTF.zip)                                                                | [📦 Download](https://<url>/MapleMonoNormalNL-OTF.zip)                                                                  |
+| WOFF2    | [📦 Download](https://<url>/MapleMono-Woff2.zip)                                                        | [📦 Download](https://<url>/MapleMonoNL-Woff2.zip)                                                          | [📦 Download](https://<url>/MapleMonoNormal-Woff2.zip)                                                              | [📦 Download](https://<url>/MapleMonoNormalNL-Woff2.zip)                                                                |
+| NF       | [📦 Download](https://<url>/MapleMono-NF-unhinted.zip) ([hinted](https://<url>/MapleMono-NF.zip))       | [📦 Download](https://<url>/MapleMonoNL-NF-unhinted.zip) ([hinted](https://<url>/MapleMonoNL-NF.zip))       | [📦 Download](https://<url>/MapleMonoNormal-NF-unhinted.zip) ([hinted](https://<url>/MapleMonoNormal-NF.zip))       | [📦 Download](https://<url>/MapleMonoNormalNL-NF-unhinted.zip) ([hinted](https://<url>/MapleMonoNormalNL-NF.zip))       |
+| CN       | [📦 Download](https://<url>/MapleMono-CN-unhinted.zip) ([hinted](https://<url>/MapleMono-CN.zip))       | [📦 Download](https://<url>/MapleMonoNL-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNL-CN.zip))       | [📦 Download](https://<url>/MapleMonoNormal-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNormal-CN.zip))       | [📦 Download](https://<url>/MapleMonoNormalNL-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNormalNL-CN.zip))       |
+| NF-CN    | [📦 Download](https://<url>/MapleMono-NF-CN-unhinted.zip) ([hinted](https://<url>/MapleMono-NF-CN.zip)) | [📦 Download](https://<url>/MapleMonoNL-NF-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNL-NF-CN.zip)) | [📦 Download](https://<url>/MapleMonoNormal-NF-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNormal-NF-CN.zip)) | [📦 Download](https://<url>/MapleMonoNormalNL-NF-CN-unhinted.zip) ([hinted](https://<url>/MapleMonoNormalNL-NF-CN.zip)) |
