@@ -1,3 +1,8 @@
+# Portions of this code have been adapted from:
+# https://gist.github.com/geoffjay/363e3b6414d651303a2b1bec1319d936
+# Original author: Geoff Johnson
+# ISC license
+
 "$schema" = "https://starship.rs/config-schema.json"
 
 # colorscheme
