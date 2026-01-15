@@ -1,3 +1,8 @@
+# My personal dot files for my nord rice.
+
+![image of application launcher infront of ide backdrop](examples/exampleOne.png)
+![ide next to audio visualizer and linux terminal](examples/exampleTwo.png)
+
 assets use charecters included in maple mono font, make sure to include in system font.
 
 nvim uses NvChad. I dont recommend copy and pasting my dot files for NvChad, you should set up and configure it from scrath only using my files as a reference.
