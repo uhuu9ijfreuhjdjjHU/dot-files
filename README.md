@@ -1,7 +1,7 @@
 # My personal dot files for my nord rice.
 
 ![image of application launcher infront of ide backdrop](examples/exampleOne.png)
-![ide next to audio visualizer and linux terminal](examples/exampleThree.png)
+![ide next to audio visualizer and linux terminal](examples/exampleTwo.png)
 
 assets use charecters included in maple mono font, make sure to include in system font.
 
